@@ -9,7 +9,8 @@
     "web-component",
     "polymer",
     "md",
-    "material design"
+    "material design",
+    "content management"
   ],
   "main": "page-app.html",
   "license": "MIT",

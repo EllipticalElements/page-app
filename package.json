@@ -1,11 +1,11 @@
 {
-  "name": "md-component",
-  "description": "md-component",
+  "name": "page-app",
+  "description": "page app dependencies",
   "version": "1.0.0",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EllipticalElements/md-component.git"
+    "url": "https://github.com/EllipticalElements/page-app.git"
   }
 }
