@@ -1,6 +1,6 @@
 {
   "name": "page-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     "S. Francis"
   ],
@@ -42,6 +42,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "elliptical-browser": "~1.1.4",
+    "elliptical-file":"~1.0.6",
     "elliptical-page":"~1.1.2",
     "page-content":"~1.0.0",
     "content-components":"~1.0.0"
