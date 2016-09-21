@@ -14,7 +14,7 @@ bower install page-app --save
 
 ```html
 
-<link rel="import" href="bower_components/md-component/md-component.html">
+<link rel="import" href="bower_components/page-app/page-app.html">
 
 
 ```
